@@ -1,0 +1,5 @@
+
+8squid:S16435"Use a StringBuilder instead.(õ„¢ıÿÿÿÿ
+Osquid:S18541"8Remove this useless assignment to local variable "temp".(åÿ÷
+1squid:S1220""Move this file to a named package.
+Osquid:S1854$"8Remove this useless assignment to local variable "temp".(åÿ÷
